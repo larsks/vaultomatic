@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+kubernetes
+hvac
+pydantic-settings
+redis
